@@ -1,12 +1,13 @@
-td,th{
-    border: 1px solid black;
-    padding: 0 10px;
-}
 table{
     border-collapse: collapse;
     height: 150px;
     width: 400px;
 }
+td,th{
+    border: 1px solid black;
+    padding: 0 10px;
+}
+
 nav > ul{
     display: flex;
 }
